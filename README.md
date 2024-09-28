@@ -33,7 +33,7 @@ Here are some of the algorithms available in this repository:
 
 ## Installation
 
-To run the algorithms in this repository, you need to have Python (3.5+) and Qiskit installed. You can install Qiskit using pip:
+To run the algorithms in this repository, you need to have VSCode installed with Python (3.5+) and Qiskit extension for VSC installed. You can install Qiskit using pip:
 
 ```bash
 pip install qiskit
