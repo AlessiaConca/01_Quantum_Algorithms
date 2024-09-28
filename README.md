@@ -1,4 +1,4 @@
-# 01_Quantum_Algorithms
+# Quantum_Algorithms
 
 # Quantum Algorithms
 
