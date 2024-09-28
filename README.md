@@ -1,6 +1,5 @@
 # Quantum_Algorithms
 
-# Quantum Algorithms
 
 Welcome to the **Quantum Algorithms** repository! This project aims to provide a comprehensive collection of quantum algorithms implemented using the Qiskit framework. Whether you're a beginner exploring quantum computing or an experienced researcher, this repository serves as a resource for understanding and experimenting with various quantum algorithms.
 
