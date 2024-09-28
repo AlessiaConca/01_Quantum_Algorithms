@@ -17,12 +17,8 @@ Welcome to the **Quantum Algorithms** repository! This project aims to provide a
 
 ## Introduction
 
-Quantum computing leverages the principles of quantum mechanics to perform calculations at better speeds with classical computers. This repository focuses on key quantum algorithms, including but not limited to:
+Quantum computing leverages the principles of quantum mechanics to perform calculations at better speeds with classical computers. This repository focuses on key quantum algorithms.
 
-- Deutsch-Josza Algorithm
-- Grover's Algorithm
-- Shor's Algorithm
-- Quantum Fourier Transform
 
 ## Getting Started
 
@@ -32,10 +28,11 @@ To get started with quantum algorithms, you should have a basic understanding of
 
 Here are some of the algorithms available in this repository:
 
-1. **Deutsch's Algorithm**: A quantum algorithm to determine whether a function is constant or balanced.
-2. **Grover's Algorithm**: An algorithm for searching unsorted databases with quadratic speedup.
-3. **Shor's Algorithm**: An algorithm for factoring large integers efficiently.
-4. **Quantum Fourier Transform**: A quantum version of the discrete Fourier transform.
+- Deutsch Algorithm
+- Deutsch-Josza Algorithm (TBD)
+- Simon's Algorithm (TBD)
+- Shor's Algorithm (TBD)
+
 
 ## Installation
 
