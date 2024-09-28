@@ -11,9 +11,7 @@ Welcome to the **Quantum Algorithms** repository! This project aims to provide a
 - [Algorithms Included](#algorithms-included)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
