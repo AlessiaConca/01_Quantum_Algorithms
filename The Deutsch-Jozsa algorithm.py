@@ -108,15 +108,3 @@ print(bv_circuit.draw())  # Print the circuit diagram for the Bernstein-Vazirani
 
 
 
-
-def bv_algorithm(function: QuantumCircuit):
-    """
-    Execute the Bernstein-Vazirani algorithm to determine the hidden string.
-    """
-    qc = compile_circuit(function)  # Compile the function circuit
-    result = AerSimulator().run(qc, shots=1, memory=True).result()  # Run the simulation with one shot
-    return result.get_memory()[0]  # Return the measurement result
-
-# Execute the Bernstein-Vazirani algorithm and print the result
-result_bv = bv_algorithm(bv_function("1001"))
-print(f"Bernstein-Vazirani Result: {result_bv}")  # Print the result of the Bernstein-Vazirani algorithm
