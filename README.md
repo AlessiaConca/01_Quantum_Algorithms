@@ -26,7 +26,7 @@ To get started with quantum algorithms, you should have a basic understanding of
 Here are some of the algorithms available in this repository:
 
 - Deutsch Algorithm
-- Deutsch-Josza Algorithm (TBD)
+- Deutsch-Josza Algorithm
 - Simon's Algorithm (TBD)
 - Shor's Algorithm (TBD)
 
